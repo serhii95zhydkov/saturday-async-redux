@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saturday-async-redux/static/css/main.7acaea2f.css",
+    "main.js": "/saturday-async-redux/static/js/main.f6cdf716.js",
+    "index.html": "/saturday-async-redux/index.html",
+    "main.7acaea2f.css.map": "/saturday-async-redux/static/css/main.7acaea2f.css.map",
+    "main.f6cdf716.js.map": "/saturday-async-redux/static/js/main.f6cdf716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.f6cdf716.js"
+  ]
+}
